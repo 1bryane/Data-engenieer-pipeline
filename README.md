@@ -15,7 +15,7 @@ python -m venv env
 ```
 2. Installez les dépendances:
 ```powershell
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3) Configuration
